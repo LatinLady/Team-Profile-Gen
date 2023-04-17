@@ -3,8 +3,8 @@
 }
 
 :root {
-    --primary: lightslategray;
-    --secondary: white;
+    --primary: rgb(212, 249, 101);
+    --secondary: rgb(45, 43, 43);
 }
 
 body {
