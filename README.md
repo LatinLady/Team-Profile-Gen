@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
 # Team Profile Generator
 
 # Description
